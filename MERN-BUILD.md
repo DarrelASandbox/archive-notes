@@ -3,8 +3,9 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+  <li><a href="#api">API</a></li>
     <li>
-      <a href="#Assets">Assets</a>
+      <a href="#assets">Assets</a>
       <ul>
         <li><a href="#icons">Icons</a></li>
         <li><a href="#typography">Typography</a></li>
@@ -25,32 +26,39 @@
 
 &nbsp;
 
+# API
+
+- [RapidAPI](https://rapidapi.com/hub)
+- [Google APIs Explorer](https://developers.google.com/apis-explorer)
+
+&nbsp;
+
 # Assets
 
 #### Icons
 
-- https://heroicons.com/
-- https://favicon.io/
-- https://react-icons.github.io/react-icons/
+- [React Icons](https://react-icons.github.io/react-icons)
+- [Favicon](https://favicon.io/)
 
 #### Typography
 
-- https://fonts.google.com/
+- [Google Fonts](https://fonts.google.com/)
 
 #### Illustrations
 
-- https://undraw.co/illustrations
+- [unDraw](https://undraw.co/)
+- [Ira Design](https://iradesign.io/)
 
 #### Images
 
-- https://unsplash.com/
+- [Unsplash](https://unsplash.com/)
 
 &nbsp;
 
 # Documentation
 
-- https://create-react-app.dev/
-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+- [Create React App](https://create-react-app.dev/)
+- [MDN - CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 &nbsp;
 
@@ -65,11 +73,15 @@
 
 #### Backend
 
-|                                                    |                                                            |                                                            |                                                |
-| :------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------: |
-|  [express](https://www.npmjs.com/package/express)  |       [dotenv](https://www.npmjs.com/package/dotenv)       |    [validator](https://www.npmjs.com/package/validator)    | [multer](https://www.npmjs.com/package/multer) |
-| [mongoose](https://www.npmjs.com/package/mongoose) | [concurrently](https://www.npmjs.com/package/concurrently) |     [bcryptjs](https://www.npmjs.com/package/bcryptjs)     |                                                |
-|      [pug](https://www.npmjs.com/package/pug)      |                                                            | [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) |                                                |
+- [express](https://www.npmjs.com/package/express)
+- [mongoose](https://www.npmjs.com/package/mongoose)
+- [pug](https://www.npmjs.com/package/pug)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [concurrently](https://www.npmjs.com/package/concurrently)
+- [validator](https://www.npmjs.com/package/validator)
+- [bcryptjs](https://www.npmjs.com/package/bcryptjs)
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- [multer](https://www.npmjs.com/package/multer)
 
 &nbsp;
 

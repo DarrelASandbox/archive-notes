@@ -3,8 +3,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-  <li><a href="#exercises/practice">Exercises/Practice</a></li>
-  <li><a href="#interview/career">Interview/Career</a></li>
+  <li><a href="#exercisespractice">Exercises/Practice</a></li>
+  <li><a href="#interviewcareer">Interview/Career</a></li>
     <li>
       <a href="#reading">Reading</a>
       <ul>
@@ -28,6 +28,7 @@
 
 # Interview/Career
 
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
 - [Career Ladders](https://career-ladders.dev/)
 
@@ -37,6 +38,7 @@
 
 #### General
 
+- [19 GitHub Repositories to Make you a 10x Developer](https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer)
 - [The baseline for web development in 2022](https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/)
 
 #### Newsletter

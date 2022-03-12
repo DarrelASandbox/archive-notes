@@ -28,6 +28,7 @@
 
 # API
 
+- [MDN Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 - [RapidAPI](https://rapidapi.com/hub)
 - [Google APIs Explorer](https://developers.google.com/apis-explorer)
 
@@ -59,6 +60,8 @@
 
 - [Create React App](https://create-react-app.dev/)
 - [MDN - CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [Axios VS Fetch API](https://blog.logrocket.com/axios-vs-fetch-best-http-requests/)
+- [Moment.js Project Status](https://momentjs.com/docs/#/-project-status/)
 
 &nbsp;
 

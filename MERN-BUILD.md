@@ -44,6 +44,15 @@
 #### Typography
 
 - [Google Fonts](https://fonts.google.com/)
+- [fontpair](https://www.fontpair.co/)
+- [type-scale](https://type-scale.com/)
+
+#### Colors
+
+- [coolors](https://coolors.co/)
+- [Happy Hues](https://www.happyhues.co/)
+- [Create Tailwind CSS color families](https://uicolors.app/create)
+- [Shadowlord - Color tints and shade generator tool](https://noeldelgado.github.io/shadowlord/)
 
 #### Illustrations
 
@@ -53,6 +62,12 @@
 #### Images
 
 - [Unsplash](https://unsplash.com/)
+
+&nbsp;
+
+# Data
+
+- [Mockaroo](https://www.mockaroo.com/)
 
 &nbsp;
 
@@ -67,14 +82,14 @@
 
 # NPM Packages
 
-#### Frontend
+### Frontend
 
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 - [normalize.css](https://www.npmjs.com/package/normalize.css)
 - [styled-components](https://www.npmjs.com/package/styled-components)
 - [react-icons](https://www.npmjs.com/package/react-icons)
 
-#### Backend
+### Backend
 
 - [express](https://www.npmjs.com/package/express)
 - [mongoose](https://www.npmjs.com/package/mongoose)
@@ -84,10 +99,37 @@
 - [validator](https://www.npmjs.com/package/validator)
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs)
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- [helmet](https://www.npmjs.com/package/helmet)
+- [xss-clean](https://www.npmjs.com/package/xss-clean)
+- [express-mongo-sanitize](https://www.npmjs.com/package/express-mongo-sanitize)
+- [express-rate-limit](https://www.npmjs.com/package/express-rate-limit)
 - [multer](https://www.npmjs.com/package/multer)
 
 &nbsp;
 
-# Setup
+# Structure
+
+- client
+  - assets
+  - components
+    - layout
+      - LoadingSpinner
+      - Logo
+      - Navbar
+      - Sidebar
+  - context
+  - pages
+    - Home
+    - About
+    - NotFound
+- server
+  - controller
+  - db
+  - middleware
+  - models
+  - routes
+- Mock Data
+- Testing
+- Deployment
 
 <p align="right">(<a href="#top">back to top</a>)</p>

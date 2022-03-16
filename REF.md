@@ -41,6 +41,10 @@
 - [19 GitHub Repositories to Make you a 10x Developer](https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer)
 - [The baseline for web development in 2022](https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/)
 
+#### Design
+
+-[Best Google Fonts Pairings](https://www.pagecloud.com/blog/best-google-fonts-pairings)
+
 #### Newsletter
 
 - [Cooperpress Email Newsletters](https://cooperpress.com/publications/)
@@ -50,15 +54,20 @@
 
 - [Tao of React](https://alexkondov.com/tao-of-react/)
 
+#### Node
+
+- [Tao of Node](https://alexkondov.com/tao-of-node/)
+
 #### Security
 
 - [JSON Web Tokens ](https://jwt.io/)
 
 &nbsp;
 
-# Youtube Channels
+# Youtube
 
 - [Fireship](https://www.youtube.com/Fireship)
+- [Coding Addict - HTML&CSS Nuggets - Default CSS Starter](https://www.youtube.com/watch?v=UDdyGNlQK5w)
 
 &nbsp;
 

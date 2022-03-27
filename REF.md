@@ -34,7 +34,7 @@
 
 &nbsp;
 
-# Reading
+# Reading/ Video
 
 #### General
 
@@ -43,31 +43,50 @@
 
 #### Design
 
--[Best Google Fonts Pairings](https://www.pagecloud.com/blog/best-google-fonts-pairings)
+- [Best Google Fonts Pairings](https://www.pagecloud.com/blog/best-google-fonts-pairings)
 
 #### Newsletter
 
 - [Cooperpress Email Newsletters](https://cooperpress.com/publications/)
 - [Tyler from ui.dev](https://bytes.dev/)
 
+#### HTML & CSS
+
+- [Coding Addict - HTML&CSS Nuggets - Default CSS Starter](https://www.youtube.com/watch?v=UDdyGNlQK5w)
+
 #### React
 
+- [Create React App](https://create-react-app.dev/)
 - [Tao of React](https://alexkondov.com/tao-of-react/)
 
 #### Node
 
 - [Tao of Node](https://alexkondov.com/tao-of-node/)
 
+#### Network
+
+- [Axios VS Fetch API](https://blog.logrocket.com/axios-vs-fetch-best-http-requests/)
+
 #### Security
 
+- [MDN - CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [JSON Web Tokens ](https://jwt.io/)
+- [Code Realm - Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)](https://www.youtube.com/watch?v=2PPSXonhIck)
+- [CrackStation: Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
+
+#### Components
+
+- [bit](https://bit.dev/)
+
+#### Utils
+
+- [Moment.js Project Status](https://momentjs.com/docs/#/-project-status/)
 
 &nbsp;
 
-# Youtube
+# Youtube Channel
 
 - [Fireship](https://www.youtube.com/Fireship)
-- [Coding Addict - HTML&CSS Nuggets - Default CSS Starter](https://www.youtube.com/watch?v=UDdyGNlQK5w)
 
 &nbsp;
 

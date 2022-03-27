@@ -13,7 +13,6 @@
         <li><a href="#images">Images</a></li>
       </ul>
     </li>
-    <li><a href="#documentation">Documentation</a></li>
     <li><a href="#npm-packages">NPM Packages</a>
     <ul>
         <li><a href="#frontend">Frontend</a></li>
@@ -67,16 +66,9 @@
 
 # Data
 
+- [allkeysgenerator](https://www.allkeysgenerator.com/Random/Security-Encryption-Key-Generator.aspx)
 - [Mockaroo](https://www.mockaroo.com/)
-
-&nbsp;
-
-# Documentation
-
-- [Create React App](https://create-react-app.dev/)
-- [MDN - CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-- [Axios VS Fetch API](https://blog.logrocket.com/axios-vs-fetch-best-http-requests/)
-- [Moment.js Project Status](https://momentjs.com/docs/#/-project-status/)
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 &nbsp;
 
@@ -88,6 +80,8 @@
 - [normalize.css](https://www.npmjs.com/package/normalize.css)
 - [styled-components](https://www.npmjs.com/package/styled-components)
 - [react-icons](https://www.npmjs.com/package/react-icons)
+- [react-toastify](https://www.npmjs.com/package/react-toastify)
+- [swiper](https://www.npmjs.com/package/swiper)
 
 ### Backend
 
@@ -96,11 +90,16 @@
 - [pug](https://www.npmjs.com/package/pug)
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [concurrently](https://www.npmjs.com/package/concurrently)
+- [express-validator](https://www.npmjs.com/package/express-validator)
 - [validator](https://www.npmjs.com/package/validator)
+- [joi](https://www.npmjs.com/package/joi)
+- [cookie-session](https://www.npmjs.com/package/cookie-session)
+- [express-session](https://www.npmjs.com/package/express-session)
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs)
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 - [helmet](https://www.npmjs.com/package/helmet)
 - [xss-clean](https://www.npmjs.com/package/xss-clean)
+- [express-async-handler](https://www.npmjs.com/package/express-async-handler)
 - [express-mongo-sanitize](https://www.npmjs.com/package/express-mongo-sanitize)
 - [express-rate-limit](https://www.npmjs.com/package/express-rate-limit)
 - [multer](https://www.npmjs.com/package/multer)

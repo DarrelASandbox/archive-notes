@@ -10,6 +10,7 @@
         <li><a href="#icons">Icons</a></li>
         <li><a href="#typography">Typography</a></li>
         <li><a href="#illustrations">Illustrations</a></li>
+        <li><a href="#colors">Colors</a></li>
         <li><a href="#images">Images</a></li>
       </ul>
     </li>
@@ -19,7 +20,6 @@
         <li><a href="#backend">Backend</a></li>
     </ul>
     </li>
-    <li><a href="#setup">Setup</a></li>
   </ol>
 </details>
 
@@ -39,12 +39,16 @@
 
 - [React Icons](https://react-icons.github.io/react-icons)
 - [Favicon](https://favicon.io/)
+- [Phosphor](https://phosphoricons.com/)
+- [ICONS8](https://icons8.com/)
 
 #### Typography
 
 - [Google Fonts](https://fonts.google.com/)
 - [fontpair](https://www.fontpair.co/)
 - [type-scale](https://type-scale.com/)
+- [Open color](https://yeun.github.io/open-color/)
+- [ColorSpace](https://mycolor.space/)
 
 #### Colors
 
@@ -57,15 +61,20 @@
 
 - [unDraw](https://undraw.co/)
 - [Ira Design](https://iradesign.io/)
+- [drawkit](https://drawkit.com/)
 
 #### Images
 
+- [Squoosh - compress images](https://squoosh.app/)
+- [UI Faces](https://www.uifaces.co/)
 - [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
 
 &nbsp;
 
 # Data
 
+- [emailregex](https://emailregex.com/)
 - [allkeysgenerator](https://www.allkeysgenerator.com/Random/Security-Encryption-Key-Generator.aspx)
 - [Mockaroo](https://www.mockaroo.com/)
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
@@ -93,6 +102,7 @@
 - [express-validator](https://www.npmjs.com/package/express-validator)
 - [validator](https://www.npmjs.com/package/validator)
 - [joi](https://www.npmjs.com/package/joi)
+- [passport](https://www.npmjs.com/package/passport)
 - [cookie-session](https://www.npmjs.com/package/cookie-session)
 - [express-session](https://www.npmjs.com/package/express-session)
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs)
@@ -106,8 +116,14 @@
 
 &nbsp;
 
-# Structure
+# Draft
 
+- App Overview
+  - Problem Set
+  - Solution
+  - Features
+- App User Flow & Tech Stack
+  - Actions
 - client
   - assets
   - components

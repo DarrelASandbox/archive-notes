@@ -116,35 +116,4 @@
 
 &nbsp;
 
-# Draft
-
-- App Overview
-  - Problem Set
-  - Solution
-  - Features
-- App User Flow & Tech Stack
-  - Actions
-- client
-  - assets
-  - components
-    - layout
-      - LoadingSpinner
-      - Logo
-      - Navbar
-      - Sidebar
-  - context
-  - pages
-    - Home
-    - About
-    - NotFound
-- server
-  - controller
-  - db
-  - middleware
-  - models
-  - routes
-- Mock Data
-- Testing
-- Deployment
-
 <p align="right">(<a href="#top">back to top</a>)</p>

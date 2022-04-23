@@ -2,32 +2,28 @@
 
 <details>
   <summary>Table of Contents</summary>
-  <ol>
-  <li><a href="#newsletter">Newsletter</a></li>
-  <li><a href="#youTube-channels">YouTube Channels</a></li>
-  <li><a href="#design">Design</a></li>
-  <li><a href="#html--css">HTML & CSS</a></li>
-  <li><a href="#react">React</a></li>
-  <li><a href="#components">Components</a></li>
-  <li><a href="#utils">Utils</a></li>
-  <li><a href="#security">Security</a></li>
-  <li><a href="#exercisespractice">Exercises/Practice</a></li>
-  <li><a href="#interviewcareer">Interview/Career</a></li>
-  </ol>
+  <a href="#websites">Websites</a>
+  <ul>
+    <li><a href="#newsletter">Newsletter</a></li>
+    <li><a href="#design">Design</a></li>
+    <li><a href="#html--css">HTML & CSS</a></li>
+    <li><a href="#react">React</a></li>
+    <li><a href="#components">Components</a></li>
+    <li><a href="#utils">Utils</a></li>
+    <li><a href="#security">Security</a></li>
+    <li><a href="#exercisespractice">Exercises/Practice</a></li>
+    <li><a href="#interviewcareer">Interview/Career</a></li>
+  </ul>
 </details>
 
 &nbsp;
+
+# Websites
 
 ## Newsletter
 
 - [Cooperpress Email Newsletters](https://cooperpress.com/publications/)
 - [Tyler from ui.dev](https://bytes.dev/)
-
-&nbsp;
-
-## Youtube Channel
-
-- [Fireship](https://www.youtube.com/Fireship)
 
 &nbsp;
 
@@ -44,7 +40,6 @@
 
 - [W3C - HTML Validator](https://validator.w3.org/#validate_by_input)
 - [codingheroes - JONAS' RESOURCES FOR HAND-CRAFTING BEAUTIFUL AND PERFORMANT WEBSITES](https://codingheroes.io/resources/)
-- [Coding Addict - HTML&CSS Nuggets - Default CSS Starter](https://www.youtube.com/watch?v=UDdyGNlQK5w)
 
 &nbsp;
 
@@ -69,7 +64,6 @@
 ## Security
 
 - [JSON Web Tokens ](https://jwt.io/)
-- [Code Realm - Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)](https://www.youtube.com/watch?v=2PPSXonhIck)
 
 &nbsp;
 

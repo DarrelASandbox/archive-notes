@@ -2,22 +2,18 @@
 
 <details>
   <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#articles">Articles</a>
-      <ul>
-        <li><a href="#general">General</a></li>
-        <li><a href="#interviews">Interviews</a></li>
-        <li><a href="#design">Design</a></li>
-        <li><a href="#performance">Performance</a></li>
-        <li><a href="#react">React</a></li>
-        <li><a href="#node">Node</a></li>
-        <li><a href="#network">Network</a></li>
-        <li><a href="#security">Security</a></li>
-      </ul>
-    </li>
+  <a href="#articles">Articles</a>
+  <ul>
+    <li><a href="#general">General</a></li>
+    <li><a href="#interviews">Interviews</a></li>
+    <li><a href="#design">Design</a></li>
+    <li><a href="#performance">Performance</a></li>
+    <li><a href="#react">React</a></li>
+    <li><a href="#node">Node</a></li>
+    <li><a href="#network">Network</a></li>
+    <li><a href="#security">Security</a></li>
     <li><a href="#youTube-channels">YouTube Channels</a></li>
-  </ol>
+  </ul>
 </details>
 
 &nbsp;
@@ -52,6 +48,10 @@
 
 - [Alex Kondov - Tao of React](https://alexkondov.com/tao-of-react/)
 - [Alex Sidorenko - Does my React app render too often?](https://alexsidorenko.com/blog/react-app-render-often/)
+- [DEV - Bad Habits of Mid-Level React Developers](https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41)
+- [DEV - Wisely Designing your React Components](https://dev.to/mbarzeev/wisely-designing-your-react-components-4o0)
+- [Philipp Spiess - Scheduling in React](https://philippspiess.com/scheduling-in-react/)
+- [Overreacted - Before You memo()](https://overreacted.io/before-you-memo/)
 
 ## Node
 
@@ -68,6 +68,7 @@
 - [Code Realm - Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)](https://www.youtube.com/watch?v=2PPSXonhIck)
 - [CrackStation - Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
 - [OWASP Cheat Sheet Series - Session Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html)
+- [Stackoverflow Blog - Best practices for REST API security: Authentication and authorization](https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/)
 
 &nbsp;
 

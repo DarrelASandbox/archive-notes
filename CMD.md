@@ -3,8 +3,8 @@
 ```sh
 # "Undo" pushed commit to GitHub.
 git push -f origin HEAD~1:main
-# Discard commit, keep changes in staging area & changes in working directory.
 git reset --soft HEAD~1
+# Discard commit, keep changes in staging area & changes in working directory.
 
 #Revert initial git commit
 git update-ref -d HEAD

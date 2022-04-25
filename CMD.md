@@ -14,6 +14,20 @@ git reflog expire --all --expire=now
 git gc --prune=now --aggressive
 ```
 
+#### NPM
+
+```sh
+# List all the Node.js modules linked with npm
+npm ls --link --global
+```
+
+#### Homebrew
+
+```sh
+# List information about all managed services for the current user (or root).
+brew services
+```
+
 #### UNIX
 
 ```sh
@@ -25,11 +39,4 @@ sudo lsof -PiTCP -sTCP:LISTEN
 ```sh
 # Kill port
 kill -9 <PID>
-```
-
-#### Homebrew
-
-```sh
-# List information about all managed services for the current user (or root).
-brew services
 ```

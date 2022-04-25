@@ -6,13 +6,15 @@
   <ul>
     <li><a href="#general">General</a></li>
     <li><a href="#interviews">Interviews</a></li>
+    <li><a href="#accessibility">Accessibility</a></li>
     <li><a href="#design">Design</a></li>
     <li><a href="#performance">Performance</a></li>
+    <li><a href="#css">CSS</a></li>
+    <li><a href="#javascript">JavaScript</a></li>
     <li><a href="#react">React</a></li>
     <li><a href="#node">Node</a></li>
     <li><a href="#network">Network</a></li>
     <li><a href="#security">Security</a></li>
-    <li><a href="#youTube-channels">YouTube Channels</a></li>
   </ul>
 </details>
 
@@ -27,13 +29,28 @@
 - [protocol - What part of the developer experience is hardest for companies to get right?](https://www.protocol.com/braintrust/developer-experience-hardest-challenges)
 - [Gunnar Morling - The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 
+&nbsp;
+
 ## Interviews
 
+- [Cassidy Williams - Get your first software developer job](https://github.com/readme/guides/first-job-in-tech)
+- [freeCodeCamp - How to Rock the Coding Interview – Tips That Helped Me Land Job Offers from Google, Airbnb, and Dropbox](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 - [surma.dev - My approach to coding interviews: Optimize for iteration](https://surma.dev/things/spreadsheet/index.html)
+- [haseeb qureshi - Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer)
+
+&nbsp;
+
+## Accessibility
+
+- [A11y Coffee - Quick wins for web accessibility](https://a11y.coffee/quick-wins/)
+
+&nbsp;
 
 ## Design
 
 - [Pagecloud - Best Google Fonts Pairings](https://www.pagecloud.com/blog/best-google-fonts-pairings)
+
+&nbsp;
 
 ## Performance
 
@@ -43,6 +60,23 @@
 - [Infrequently Noted - Cache and Prizes](https://infrequently.org/2022/03/cache-and-prizes/)
 - [Simon Hearne - Optimising Core Web Vitals on SPAs](https://simonhearne.com/2022/core-web-vitals-on-spas/)
 - [CSS Wizardry - Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint/)
+- [Laurie Barth - Diagnosing Performance Issues](https://laurieontech.com/posts/performance-diagnosis/)
+
+&nbsp;
+
+## CSS
+
+- [leemeichin - Yes, I can connect to a DB in CSS](https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html)
+
+&nbsp;
+
+## JavaScript
+
+- [HACKERNOON - How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
+- [ui.dev - Understanding the "this" keyword, call, apply, and bind in JavaScript](https://ui.dev/this-keyword-call-apply-bind-javascript)
+- [MDN - How MDN’s autocomplete search works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
+
+&nbsp;
 
 ## React
 
@@ -52,14 +86,23 @@
 - [DEV - Wisely Designing your React Components](https://dev.to/mbarzeev/wisely-designing-your-react-components-4o0)
 - [Philipp Spiess - Scheduling in React](https://philippspiess.com/scheduling-in-react/)
 - [Overreacted - Before You memo()](https://overreacted.io/before-you-memo/)
+- [Mark's Dev Blog - Idiomatic Redux](https://blog.isquaredsoftware.com/series/idiomatic-redux)
+- [Robin Wieruch - React's useReducer Hook vs Redux](https://www.robinwieruch.de/redux-vs-usereducer/)
+
+&nbsp;
 
 ## Node
 
 - [Alex Kondov - Tao of Node](https://alexkondov.com/tao-of-node/)
 
+&nbsp;
+
 ## Network
 
 - [LogRocket - Axios VS Fetch API](https://blog.logrocket.com/axios-vs-fetch-best-http-requests/)
+- [Gaffer On Games](https://gafferongames.com/)
+
+&nbsp;
 
 ## Security
 

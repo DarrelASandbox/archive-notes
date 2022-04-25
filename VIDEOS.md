@@ -18,6 +18,9 @@
 ## Youtube Channels
 
 - [Fireship](https://www.youtube.com/Fireship)
+- [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
+- [NeetCode](https://www.youtube.com/NeetCode)
+- [SatoriGraphics](https://www.youtube.com/SatoriGraphics)
 
 &nbsp;
 
@@ -31,11 +34,12 @@
 
 ## Security
 
-| Mins |                                                                 Title                                                                  |
-| :--: | :------------------------------------------------------------------------------------------------------------------------------------: |
-|  37  | [Code Realm - Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)](https://www.youtube.com/watch?v=2PPSXonhIck) |
-|  17  |               [OktaDev - An Illustrated Guide to OAuth and OpenID Connect](https://www.youtube.com/watch?v=t18YB3xDfXI)                |
-|  63  |                [OktaDev - OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)                |
+| Mins |                                                                        Title                                                                        |
+| :--: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  37  |       [Code Realm - Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)](https://www.youtube.com/watch?v=2PPSXonhIck)        |
+|  17  |                      [OktaDev - An Illustrated Guide to OAuth and OpenID Connect](https://www.youtube.com/watch?v=t18YB3xDfXI)                      |
+|  63  |                      [OktaDev - OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)                       |
+|  32  | [It's a Jungle Out There: What's Really Going on Inside Your Node_Modules Folder, Feross Aboukhadijeh](https://www.youtube.com/watch?v=-uAX28hfZcc) |
 
 &nbsp;
 

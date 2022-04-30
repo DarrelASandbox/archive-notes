@@ -3,7 +3,6 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-  <li><a href="#api">API</a></li>
     <li>
       <a href="#assets">Assets</a>
       <ul>
@@ -22,14 +21,6 @@
     </li>
   </ol>
 </details>
-
-&nbsp;
-
-# API
-
-- [MDN Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
-- [RapidAPI](https://rapidapi.com/hub)
-- [Google APIs Explorer](https://developers.google.com/apis-explorer)
 
 &nbsp;
 
@@ -85,6 +76,7 @@
 
 ### Frontend
 
+- [http-proxy-middleware](https://www.npmjs.com/package/http-proxy-middleware)
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 - [normalize.css](https://www.npmjs.com/package/normalize.css)
 - [styled-components](https://www.npmjs.com/package/styled-components)
@@ -99,6 +91,7 @@
 - [pug](https://www.npmjs.com/package/pug)
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [concurrently](https://www.npmjs.com/package/concurrently)
+- [cors](https://www.npmjs.com/package/cors)
 - [express-validator](https://www.npmjs.com/package/express-validator)
 - [validator](https://www.npmjs.com/package/validator)
 - [joi](https://www.npmjs.com/package/joi)

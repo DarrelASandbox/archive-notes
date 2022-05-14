@@ -5,6 +5,7 @@
   <a href="#videos-from-youtube">Videos from YouTube</a>
   <ul>
     <li><a href="#youtube-channels">YouTube Channels</a></li>
+    <li><a href="#data-structures--algorithms">Data Structures & Alogrithms</a></li>
     <li><a href="#html--css">HTML & CSS</a></li>
     <li><a href="#security">Security</a></li>
     <li><a href="#youTube-channels">YouTube Channels</a></li>
@@ -17,10 +18,20 @@
 
 ## Youtube Channels
 
-- [Fireship](https://www.youtube.com/Fireship)
+- [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
 - [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
+- [Fireship](https://www.youtube.com/Fireship)
 - [NeetCode](https://www.youtube.com/NeetCode)
 - [SatoriGraphics](https://www.youtube.com/SatoriGraphics)
+
+&nbsp;
+
+## Data Structures & Alogrithms
+
+| Mins |                                                       Title                                                        |
+| :--: | :----------------------------------------------------------------------------------------------------------------: |
+|  13  |  [Byte by Byte - How to use Leetcode EFFECTIVELY… and STOP grinding](https://www.youtube.com/watch?v=GbyXxUDVeAo)  |
+|  19  | [Eric Programming - 2022 - Leetcode Study Roadmap [Beginner's Guide]](https://www.youtube.com/watch?v=wrNEKxlDWlw) |
 
 &nbsp;
 

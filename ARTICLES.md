@@ -6,15 +6,18 @@
   <ul>
     <li><a href="#general">General</a></li>
     <li><a href="#interviews">Interviews</a></li>
+    <li><a href="#data-structures--algorithms">Data Structures & Alogrithms</a></li>
     <li><a href="#accessibility">Accessibility</a></li>
     <li><a href="#design">Design</a></li>
     <li><a href="#performance">Performance</a></li>
+    <li><a href="#animation">Animation</a></li>
     <li><a href="#css">CSS</a></li>
     <li><a href="#javascript">JavaScript</a></li>
     <li><a href="#react">React</a></li>
     <li><a href="#node">Node</a></li>
     <li><a href="#network">Network</a></li>
     <li><a href="#security">Security</a></li>
+    <li><a href="#testing">Testing</a></li>
   </ul>
 </details>
 
@@ -38,10 +41,16 @@
 ## Interviews
 
 - [Cassidy Williams - Get your first software developer job](https://github.com/readme/guides/first-job-in-tech)
-- [freeCodeCamp - How to Rock the Coding Interview – Tips That Helped Me Land Job Offers from Google, Airbnb, and Dropbox](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 - [surma.dev - My approach to coding interviews: Optimize for iteration](https://surma.dev/things/spreadsheet/index.html)
 - [haseeb qureshi - Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer)
+
+&nbsp;
+
+## Data Structures & Algorithms
+
+- [freeCodeCamp - How to Rock the Coding Interview – Tips That Helped Me Land Job Offers from Google, Airbnb, and Dropbox](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 - [Facebook senior software engineer interview: the only post you’ll need to read](https://daqo.medium.com/facebook-senior-software-engineer-interview-the-only-post-youll-need-to-read-e4604ff2336d)
+- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
 &nbsp;
 
@@ -68,6 +77,13 @@
 - [Laurie Barth - Diagnosing Performance Issues](https://laurieontech.com/posts/performance-diagnosis/)
 - [Stackoverflow Blog - Picture perfect images with the modern <img> element](https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/)
 - [freeCodeCamp - Web Animation Performance Fundamentals – How to Make Your Pages Look Smooth](https://www.freecodecamp.org/news/web-animation-performance-fundamentals)
+- [Zhenzhong Xu - The Four Innovation Phases of Netflix’s Trillions Scale Real-time Data Infrastructure](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
+
+&nbsp;
+
+## Animation
+
+- [Maxime Heckel - Everything about Framer Motion layout animations](https://blog.maximeheckel.com/posts/framer-motion-layout-animations/)
 
 &nbsp;
 
@@ -76,6 +92,7 @@
 - [Smashing Magazine - The Ultimate Guide To Push Notifications For Developers](https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/)
 - [leemeichin - Yes, I can connect to a DB in CSS](https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html)
 - [Marko Denic - CSS Tips](https://markodenic.com/css-tips/)
+- [web.dev - Building a loading bar component](https://web.dev/building-a-loading-bar-component/)
 
 &nbsp;
 
@@ -125,6 +142,13 @@
 - [Stackoverflow Blog - Best practices for REST API security: Authentication and authorization](https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/)
 - [Hasura - The Ultimate Guide to handling JWTs on frontend clients (GraphQL)](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/#jwt_security)
 - [Angular University - JWT: The Complete Guide to JSON Web Tokens](https://blog.angular-university.io/angular-jwt/)
+
+&nbsp;
+
+## Testing
+
+- [freeCodeCamp - How to Write Testable Code | Khalil's Methodology](https://www.freecodecamp.org/news/how-to-write-testable-code/)
+- [Smashing Magazine - It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them](https://www.smashingmagazine.com/2021/07/frontend-testing-pitfalls/)
 
 &nbsp;
 

@@ -1,10 +1,10 @@
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "on",
   "editor.formatOnSave": true,
   "editor.linkedEditing": true,
   "editor.minimap.enabled": false,
   "editor.tabSize": 2,
-  "editor.wordWrap": "on",
 
   "explorer.compactFolders": false,
   "explorer.confirmDragAndDrop": false,
@@ -30,5 +30,7 @@
   "prettier.singleQuote": true,
 
   "liveServer.settings.donotShowInfoMsg": true,
-  "reactSnippets.settings.importReactOnTop": false
+  "reactSnippets.settings.importReactOnTop": false,
+
+  "window.zoomLevel": 1
 }

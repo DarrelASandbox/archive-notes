@@ -28,6 +28,35 @@ npm ls --link --global
 brew services
 ```
 
+#### Anaconda
+
+```sh
+# To keep everything consistent, use "conda update anaconda", as Anaconda is the consistent set of packages for each Anaconda release.
+conda update anaconda
+
+# Skip dependency checking altogether, use the '--no-deps' option
+conda install --no-deps #package
+
+# Create env
+conda create --name basic
+conda activate basic
+
+# Make exact copy of an environment
+conda create --clone basic --name temp
+
+# Check envs
+conda env list
+
+# Activate the new environment to use it
+source activate base
+
+# Delete an environment and everything in it
+conda env remove --name temp_env
+
+# List the history of each change to the current environment
+conda list --revisions
+```
+
 #### UNIX
 
 ```sh

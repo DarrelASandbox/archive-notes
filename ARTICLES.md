@@ -18,6 +18,7 @@
     <li><a href="#network">Network</a></li>
     <li><a href="#security">Security</a></li>
     <li><a href="#testing">Testing</a></li>
+    <li><a href="#python">Python</a></li>
   </ul>
 </details>
 
@@ -30,11 +31,14 @@
 - [HACKERNOON - 19 GitHub Repositories to Make you a 10x Developer](https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer)
 - [LINE Engineering - The baseline for web development in 2022](https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/)
 - [protocol - What part of the developer experience is hardest for companies to get right?](https://www.protocol.com/braintrust/developer-experience-hardest-challenges)
-- [Gunnar Morling - The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 - [How to choose between Next.js CSR, SSR, SSG, and ISR](https://next-usecase.thcl.dev/)
 - [heinrichhartmann - Writing for Engineers](https://www.heinrichhartmann.com/posts/writing/)
+- [The History of the Web - Web Apps, Web Sites, Are they all the Same?](https://thehistoryoftheweb.com/postscript/web-apps-web-sites-are-they-all-the-same/)
 - [Alex Ewerlöf - My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
+- [Ken Kantzer - Learnings from 5 years of tech startup code audits](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
+- [Gunnar Morling - The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 - [Leadership Garden - The Ultimate Guide to Onboarding Software Engineers](https://leadership.garden/onboarding-engineers/)
+- [eugeneyan - What I Wish I Knew About Onboarding Effectively](https://eugeneyan.com/writing/onboarding/)
 
 &nbsp;
 
@@ -93,6 +97,7 @@
 - [leemeichin - Yes, I can connect to a DB in CSS](https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html)
 - [Marko Denic - CSS Tips](https://markodenic.com/css-tips/)
 - [web.dev - Building a loading bar component](https://web.dev/building-a-loading-bar-component/)
+- [Industrial Empathy - More than you ever wanted to know about font loading on the web](https://www.industrialempathy.com/posts/high-performance-web-font-loading)
 
 &nbsp;
 
@@ -101,6 +106,7 @@
 - [HACKERNOON - How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 - [ui.dev - Understanding the "this" keyword, call, apply, and bind in JavaScript](https://ui.dev/this-keyword-call-apply-bind-javascript)
 - [MDN - How MDN’s autocomplete search works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
+- [zhenghao - JSON And The Stringification Oddities In JavaScript](https://www.zhenghao.io/posts/json-oddities)
 
 &nbsp;
 
@@ -149,6 +155,12 @@
 
 - [freeCodeCamp - How to Write Testable Code | Khalil's Methodology](https://www.freecodecamp.org/news/how-to-write-testable-code/)
 - [Smashing Magazine - It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them](https://www.smashingmagazine.com/2021/07/frontend-testing-pitfalls/)
+
+&nbsp;
+
+## Python
+
+- [Real Python - Python Best Practices for More Pythonic Code](https://realpython.com/tutorials/best-practices/)
 
 &nbsp;
 

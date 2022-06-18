@@ -14,7 +14,6 @@
   "terminal.integrated.defaultProfile.osx": "zsh",
   "terminal.integrated.fontFamily": "Menlo for Powerline",
   "terminal.integrated.copyOnSelection": true,
-  "terminal.integrated.shellIntegration.showWelcome": false,
   "terminal.integrated.tabs.enabled": false,
 
   "workbench.colorTheme": "Monokai Pro",
@@ -23,14 +22,38 @@
   "workbench.editor.enablePreview": false,
   "workbench.welcomePage.walkthroughs.openOnInstall": false,
 
-  "emmet.includeLanguages": { "javascript": "javascriptreact" },
-  "javascript.updateImportsOnFileMove.enabled": "always",
-
   "material-icon-theme.activeIconPack": "react",
   "prettier.singleQuote": true,
+  "prettier.printWidth": 90,
+
+  "window.zoomLevel": 1,
+  "security.workspace.trust.untrustedFiles": "open",
+
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "javascript.updateImportsOnFileMove.enabled": "always",
 
   "liveServer.settings.donotShowInfoMsg": true,
   "reactSnippets.settings.importReactOnTop": false,
 
-  "window.zoomLevel": 1
+  "python.condaPath": "/opt/homebrew/anaconda3/bin/conda",
+  "python.formatting.provider": "black",
+  "python.formatting.blackPath": "/opt/homebrew/anaconda3/bin/black",
+  "python.linting.pylintEnabled": false,
+  "python.linting.enabled": true,
+
+  "[python]": {
+    "editor.defaultFormatter": null,
+    "editor.tabSize": 4
+  },
+
+  "files.exclude": {
+    "**/__pycache__": true
+  },
+
+  "go.formatTool": "goimports",
+
+  "[go]": {
+    "editor.insertSpaces": true,
+    "editor.defaultFormatter": "golang.go"
+  }
 }

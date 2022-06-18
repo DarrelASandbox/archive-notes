@@ -16,6 +16,7 @@
     <li><a href="#utils">Utils</a></li>
     <li><a href="#security">Security</a></li>
     <li><a href="#seo">SEO</a></li>
+    <li><a href="#go">GO</a></li>
     <li><a href="#exercisespractice">Exercises/Practice</a></li>
     <li><a href="#interviewcareer">Interview/Career</a></li>
   </ul>
@@ -101,6 +102,15 @@
 
 - [Google Search Central](https://developers.google.com/search)
 - [Learning SEO – A Roadmap with Free Guides & Tools](https://learningseo.io/)
+
+&nbsp;
+
+## GO
+
+- [gophercises](https://gophercises.com/)
+- [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
+- [Dave Cheney](https://dave.cheney.net/)
+- [Google Docs - Advocates](https://docs.google.com/document/d/1Zb9GCWPKeEJ4Dyn2TkT-O3wJ8AFc-IMxZzTugNCjr-8/edit#heading=h.nhafw2gkwi8r)
 
 &nbsp;
 

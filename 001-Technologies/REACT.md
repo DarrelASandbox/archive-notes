@@ -11,9 +11,11 @@
 - [Mark's Dev Blog - Idiomatic Redux](https://blog.isquaredsoftware.com/series/idiomatic-redux)
 - [Robin Wieruch - React's useReducer Hook vs Redux](https://www.robinwieruch.de/redux-vs-usereducer/)
 - [Better Programming - How We Reduced Bugs in Our React Codebase](https://betterprogramming.pub/how-we-reduced-bugs-in-our-react-code-base-9a7a979b4442)
+- [Frontend Mastery - Advanced React component composition](https://frontendmastery.com/posts/advanced-react-component-composition-guide/)
 
 &nbsp;
 
 ## Websites
 
 - [Create React App](https://create-react-app.dev/)
+- [useHooks(🐠)](https://usehooks.com/)

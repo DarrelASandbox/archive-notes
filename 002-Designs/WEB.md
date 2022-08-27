@@ -22,6 +22,7 @@
 - [Stackoverflow Blog - Picture perfect images with the modern <img> element](https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/)
 - [freeCodeCamp - Web Animation Performance Fundamentals – How to Make Your Pages Look Smooth](https://www.freecodecamp.org/news/web-animation-performance-fundamentals)
 - [Zhenzhong Xu - The Four Innovation Phases of Netflix’s Trillions Scale Real-time Data Infrastructure](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
+- [DEV - The Cost of Consistency in UI Frameworks](https://dev.to/this-is-learning/the-cost-of-consistency-in-ui-frameworks-4agi)
 
 &nbsp;
 
@@ -32,6 +33,7 @@
 ## Animation
 
 - [Maxime Heckel - Everything about Framer Motion layout animations](https://blog.maximeheckel.com/posts/framer-motion-layout-animations/)
+- [Engineering at Meta - Building text animations for Instagram Stories](https://engineering.fb.com/2022/07/18/developer-tools/building-text-animations-for-instagram-stories/)
 
 &nbsp;
 

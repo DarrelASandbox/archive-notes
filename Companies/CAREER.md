@@ -5,6 +5,7 @@
     <li><a href="#data-structures--algorithms">Data Structures & Alogrithms</a></li>
     <li><a href="#interview">Interview</a></li>
     <li><a href="#progression">Progression</a></li>
+    <li><a href="#compensation">Compensation</a></li>
   </ul>
 </details>
 
@@ -51,6 +52,12 @@
 &nbsp;
 
 - [Career Ladders](https://career-ladders.dev/)
+
+&nbsp;
+
+## Compensation
+
+- [The Pragmatic Engineer - Oncall Compensation](https://newsletter.pragmaticengineer.com/p/oncall-compensation)
 
 &nbsp;
 

@@ -8,7 +8,6 @@
     <li><a href="#html">HTML</a></li>
     <li><a href="#node">Node</a></li>
     <li><a href="#security">Security</a></li>
-    <li><a href="#ctf">CTF</a></li>
     <li><a href="#network">Network</a></li>
     <li><a href="#database">Database</a>
     <li><a href="#testing">Testing</a></li>
@@ -53,40 +52,9 @@
 
 &nbsp;
 
-## HTML
-
-- [W3C - HTML Validator](https://validator.w3.org/#validate_by_input)
-
-&nbsp;
-
 ## Node
 
 - [Alex Kondov - Tao of Node](https://alexkondov.com/tao-of-node/)
-
-&nbsp;
-
-## Security
-
-- [ExpressJS - Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
-- [MDN - CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-- [Code Realm - Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)](https://www.youtube.com/watch?v=2PPSXonhIck)
-- [CrackStation - Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
-- [OWASP Cheat Sheet Series - Session Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html)
-- [OWASP - Session hijacking attack](https://owasp.org/www-community/attacks/Session_hijacking_attack)
-- [Stackoverflow Blog - Best practices for REST API security: Authentication and authorization](https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/)
-- [Hasura - The Ultimate Guide to handling JWTs on frontend clients (GraphQL)](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/#jwt_security)
-- [Angular University - JWT: The Complete Guide to JSON Web Tokens](https://blog.angular-university.io/angular-jwt/)
-- [Sam Curry - We Hacked Apple for 3 Months: Here’s What We Found](https://samcurry.net/hacking-apple/)
-
-&nbsp;
-
-- [JSON Web Tokens ](https://jwt.io/)
-
-&nbsp;
-
-## CTF
-
-- [docfate111 - Guide to CTF Prep/Becoming a 1337 Hacker](https://docfate111.github.io/cybersecclub/roadmap.html)
 
 &nbsp;
 
@@ -102,6 +70,7 @@
 
 - [Edureka - Differences Between SQL & NoSQL Databases – MySQL & MongoDB Comparison](https://www.edureka.co/blog/sql-vs-nosql-db/)
 - [redgate - How to choose between SQL and NoSQL databases](https://www.red-gate.com/simple-talk/databases/nosql/how-to-choose-between-sql-and-nosql-databases/)
+- [architecture notes - Redis Explained](https://architecturenotes.co/redis/)
 
 &nbsp;
 

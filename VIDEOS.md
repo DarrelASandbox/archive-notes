@@ -5,7 +5,7 @@
   <ul>
     <li><a href="#youtube-channels">YouTube Channels</a></li>
     <li><a href="#general">General</a></li>
-    <li><a href="#data-structures--algorithms">Data Structures & Alogrithms</a></li>
+    <li><a href="#data-structures--algorithms">Data Structures & Algorithms</a></li>
     <li><a href="#design">Design</a></li>
     <li><a href="#html--css">HTML & CSS</a></li>
     <li><a href="#react">React</a></li>
@@ -27,6 +27,7 @@
 - [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
 - [Fireship](https://www.youtube.com/Fireship)
 - [NeetCode](https://www.youtube.com/NeetCode)
+- [TechWorldwithNana](https://www.youtube.com/TechWorldwithNana)
 - [SatoriGraphics](https://www.youtube.com/SatoriGraphics)
 
 &nbsp;
@@ -39,7 +40,7 @@
 
 &nbsp;
 
-## Data Structures & Alogrithms
+## Data Structures & Algorithms
 
 | Mins |                                                       Title                                                        |
 | :--: | :----------------------------------------------------------------------------------------------------------------: |
@@ -75,9 +76,10 @@
 
 ## Golang
 
-| Mins |                                                            Title                                                             |
-| :--: | :--------------------------------------------------------------------------------------------------------------------------: |
-|  47  | [Gopher Academy - GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0) |
+| Mins |                                                                Title                                                                 |
+| :--: | :----------------------------------------------------------------------------------------------------------------------------------: |
+|  47  |     [Gopher Academy - GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)     |
+| 147  | [Junmin Lee - Data Structures in Golang Series](https://www.youtube.com/watch?v=3DYIgTC4T1o&list=PL0q7mDmXPZm7s7weikYLpNZBKk5dCoWm6) |
 
 &nbsp;
 

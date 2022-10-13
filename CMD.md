@@ -12,6 +12,23 @@ git update-ref -d HEAD
 # Reduce Git repository size.
 git reflog expire --all --expire=now
 git gc --prune=now --aggressive
+
+# Pull Request (After forking and cloning to local)
+git branch branchname
+git checkout branchname
+git add .
+git commit -m 'branchname feature'
+git push
+# Open Pull Request on GitHub & Create
+# Sync with Master Repo
+git checkout main
+git remote add upstream https://github.com/some-url
+git fetch upstream
+git merge upstream/main
+# See remote branches
+git remote -v
+# Remove previously incorrect remote
+git remote rm upstream
 ```
 
 #### NPM
@@ -19,6 +36,16 @@ git gc --prune=now --aggressive
 ```sh
 # List all the Node.js modules linked with npm
 npm ls --link --global
+```
+
+#### VS Code
+
+```sh
+# https://stackoverflow.com/questions/35773299/how-can-you-export-the-visual-studio-code-extension-list
+# Export from Machine A
+code --list-extensions > extensions.list
+# Install on Machine B
+cat extensions.list |% { code --install-extension $_}
 ```
 
 #### Homebrew

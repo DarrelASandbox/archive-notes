@@ -35,10 +35,6 @@
   "liveServer.settings.donotShowInfoMsg": true,
   "reactSnippets.settings.importReactOnTop": false,
 
-  "[sql]": {
-    "editor.defaultFormatter": "adpyke.vscode-sql-formatter"
-  },
-
   "python.condaPath": "/opt/homebrew/Caskroom/miniconda/base/envs/basic",
   "python.formatting.provider": "black",
   "python.formatting.blackPath": "/opt/homebrew/Caskroom/miniconda/base/envs/basic/bin/black",
@@ -50,15 +46,61 @@
     "editor.tabSize": 4
   },
 
-  "files.exclude": {
-    "**/__pycache__": true
-  },
+  "files.exclude": { "**/__pycache__": true },
 
   "go.formatTool": "goimports",
+  "go.useLanguageServer": false,
+  "go.toolsManagement.autoUpdate": true,
 
   "[go]": {
     "editor.insertSpaces": true,
     "editor.defaultFormatter": "golang.go"
   },
-  "go.toolsManagement.autoUpdate": true
+
+  "files.associations": {
+    "*.gohtml": "html"
+  },
+
+  "svelte.enable-ts-plugin": true,
+  "svelte.plugin.svelte.note-new-transformation": false,
+
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+
+  "cSpell.userWords": [
+    "ASVS",
+    "Bootswatch",
+    "bson",
+    "bufio",
+    "DAST",
+    "gohtml",
+    "gonic",
+    "HITECH",
+    "HMAC",
+    "httprouter",
+    "HVAC",
+    "IAST",
+    "JSESSIONID",
+    "julienschmidt",
+    "Kaspersky",
+    "middlewares",
+    "mutatable",
+    "OIDC",
+    "OWASP",
+    "reflog",
+    "SAST",
+    "SDLC",
+    "servemux",
+    "Servlet",
+    "SIEM",
+    "SSRF",
+    "struct",
+    "templating",
+    "Unvalidated",
+    "Visio",
+    "Walkthrough",
+    "XACML",
+    "XGET"
+  ]
 }

@@ -9,6 +9,7 @@
 - [Stackoverflow Blog - Best practices for REST API security: Authentication and authorization](https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/)
 - [Hasura - The Ultimate Guide to handling JWTs on frontend clients (GraphQL)](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/#jwt_security)
 - [Angular University - JWT: The Complete Guide to JSON Web Tokens](https://blog.angular-university.io/angular-jwt/)
+- [okta - A Thorough Introduction to PASETO](https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto)
 - [Sam Curry - We Hacked Apple for 3 Months: Here’s What We Found](https://samcurry.net/hacking-apple/)
 
 &nbsp;

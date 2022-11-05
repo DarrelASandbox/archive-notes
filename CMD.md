@@ -6,8 +6,14 @@ git push -f origin HEAD~1:main
 git reset --soft HEAD~1
 # Discard commit, keep changes in staging area & changes in working directory.
 
-#Revert initial git commit
+# Revert initial git commit
 git update-ref -d HEAD
+
+# https://stackoverflow.com/questions/18393498/gitignore-all-the-ds-store-files-in-every-folder-and-subfolder/19299889#19299889
+# Make a global .gitignore file somewhere
+echo .DS_Store >> ~/.gitignore_global
+# Now tell git to use it for all repositories:
+git config --global core.excludesfile ~/.gitignore_global
 
 # Reduce Git repository size.
 git reflog expire --all --expire=now

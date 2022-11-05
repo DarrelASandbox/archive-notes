@@ -23,6 +23,7 @@
 ## Readings
 
 - [Alex Edwards - Organising Database Access in Go](https://www.alexedwards.net/blog/organising-database-access)
+- [Dev Genius - Implementing Go stream API](https://blog.devgenius.io/implementing-go-stream-api-a74a6156ac35)
 
 &nbsp;
 

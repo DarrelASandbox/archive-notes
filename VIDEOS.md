@@ -42,10 +42,11 @@
 
 ## Data Structures & Algorithms
 
-| Mins |                                                       Title                                                        |
-| :--: | :----------------------------------------------------------------------------------------------------------------: |
-|  13  |  [Byte by Byte - How to use Leetcode EFFECTIVELY… and STOP grinding](https://www.youtube.com/watch?v=GbyXxUDVeAo)  |
-|  19  | [Eric Programming - 2022 - Leetcode Study Roadmap [Beginner's Guide]](https://www.youtube.com/watch?v=wrNEKxlDWlw) |
+| Mins |                                                                     Title                                                                     |
+| :--: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
+|  13  | [A Life Engineered - Most Tech Interview Prep is GARBAGE. (From a Principal Engineer at Amazon)](https://www.youtube.com/watch?v=0Z9RW_hhUT4) |
+|  13  |               [Byte by Byte - How to use Leetcode EFFECTIVELY… and STOP grinding](https://www.youtube.com/watch?v=GbyXxUDVeAo)                |
+|  19  |              [Eric Programming - 2022 - Leetcode Study Roadmap [Beginner's Guide]](https://www.youtube.com/watch?v=wrNEKxlDWlw)               |
 
 &nbsp;
 

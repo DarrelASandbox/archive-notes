@@ -12,6 +12,8 @@
 - [Robin Wieruch - React's useReducer Hook vs Redux](https://www.robinwieruch.de/redux-vs-usereducer/)
 - [Better Programming - How We Reduced Bugs in Our React Codebase](https://betterprogramming.pub/how-we-reduced-bugs-in-our-react-code-base-9a7a979b4442)
 - [Frontend Mastery - Advanced React component composition](https://frontendmastery.com/posts/advanced-react-component-composition-guide/)
+- [Mark's Dev Blog - Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+- [marmelab - React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
 
 &nbsp;
 
@@ -19,3 +21,4 @@
 
 - [Create React App](https://create-react-app.dev/)
 - [useHooks(🐠)](https://usehooks.com/)
+- [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)

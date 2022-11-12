@@ -28,6 +28,7 @@
 - [Fireship](https://www.youtube.com/Fireship)
 - [NeetCode](https://www.youtube.com/NeetCode)
 - [TechWorldwithNana](https://www.youtube.com/TechWorldwithNana)
+- [ByteByteGo](https://www.youtube.com/ByteByteGo)
 - [SatoriGraphics](https://www.youtube.com/SatoriGraphics)
 
 &nbsp;

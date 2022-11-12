@@ -1,3 +1,15 @@
+<div id="top"></div>
+
+<details>
+  <summary>Table of Contents</summary>
+  <ul>
+    <li><a href="#articles">Articles</a></li>
+    <li><a href="#resources">Resources</a></li>
+  </ul>
+</details>
+
+&nbsp;
+
 # React
 
 ## Articles
@@ -17,8 +29,12 @@
 
 &nbsp;
 
-## Websites
+## Resources
 
 - [Create React App](https://create-react-app.dev/)
 - [useHooks(🐠)](https://usehooks.com/)
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
+
+&nbsp;
+
+<p align="right">(<a href="#top">back to top</a>)</p>

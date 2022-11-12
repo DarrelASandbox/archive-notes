@@ -44,6 +44,7 @@
 
 ## Progression
 
+- [Celine Halioua - Early career advice](https://www.celinehh.com/early-career-advice)
 - [Leadership Garden - The Ultimate Guide to Onboarding Software Engineers](https://leadership.garden/onboarding-engineers/)
 - [eugeneyan - What I Wish I Knew About Onboarding Effectively](https://eugeneyan.com/writing/onboarding/)
 - [Gunnar Morling - The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)

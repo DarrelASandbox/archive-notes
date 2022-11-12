@@ -4,6 +4,7 @@
   <summary>Table of Contents</summary>
   <ul>
     <li><a href="#articles">Articles</a></li>
+    <li><a href="#resources">Resources</a></li>
   </ul>
 </details>
 
@@ -14,6 +15,12 @@
 ## Articles
 
 - [Tokio - Streams](https://tokio.rs/tokio/tutorial/streams)
+
+&nbsp;
+
+## Resources
+
+- [Blessed](https://blessed.rs/crates)
 
 &nbsp;
 

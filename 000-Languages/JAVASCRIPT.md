@@ -21,6 +21,7 @@
 - [zhenghao - JSON And The Stringification Oddities In JavaScript](https://www.zhenghao.io/posts/json-oddities)
 - [Dmitri Pavlutin - 7 Interview Questions on JavaScript Closures. Can You Answer Them?](https://dmitripavlutin.com/javascript-closures-interview-questions/)
 - [WebKit - Understanding Garbage Collection in JavaScriptCore From Scratch](https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/)
+- [James Sinclair What if the team assumes my functional javascript is slow?](https://jrsinclair.com/articles/2022/what-if-the-team-assumes-my-functional-javascript-is-slow/)
 
 &nbsp;
 

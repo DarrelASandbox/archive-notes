@@ -23,6 +23,7 @@
 - [Stackoverflow Blog - Picture perfect images with the modern <img> element](https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/)
 - [freeCodeCamp - Web Animation Performance Fundamentals – How to Make Your Pages Look Smooth](https://www.freecodecamp.org/news/web-animation-performance-fundamentals)
 - [DEV - The Cost of Consistency in UI Frameworks](https://dev.to/this-is-learning/the-cost-of-consistency-in-ui-frameworks-4agi)
+- [Kirill Rogovoy - No architecture is better than bad architecture](https://rogovoy.me/blog/no-architecture)
 
 &nbsp;
 
@@ -75,13 +76,5 @@
 
 - [LINE Engineering - The baseline for web development in 2022](https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/)
 - [The History of the Web - Web Apps, Web Sites, Are they all the Same?](https://thehistoryoftheweb.com/postscript/web-apps-web-sites-are-they-all-the-same/)
-
-&nbsp;
-
-## SEO
-
-- [Google Search Central](https://developers.google.com/search)
-- [Learning SEO – A Roadmap with Free Guides & Tools](https://learningseo.io/)
-- [SEO for Google News](https://www.seoforgooglenews.com/)
 
 &nbsp;

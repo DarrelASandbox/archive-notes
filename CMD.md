@@ -59,6 +59,13 @@ cat extensions.list |% { code --install-extension $_}
 ```sh
 # List information about all managed services for the current user (or root).
 brew services
+
+# List all packages dependencies:
+brew deps --tree --installed
+# List one package dependencies:
+brew deps --tree --installed go
+# List all formulas that aren't dependents of any other formulas (leaves), and for each of them lists all of its dependencies.
+brew leaves | xargs brew deps --formula --for-each | sed "s/^.*:/$(tput setaf 4)&$(tput sgr0)/"
 ```
 
 #### Anaconda
@@ -101,4 +108,11 @@ sudo lsof -PiTCP -sTCP:LISTEN
 ```sh
 # Kill port
 kill -9 <PID>
+```
+
+#### Neovim
+
+```sh
+# runtimepath
+:help rtp
 ```

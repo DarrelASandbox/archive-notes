@@ -27,6 +27,7 @@
 - [Mark's Dev Blog - Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - [marmelab - React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
 - [Profy - Refactoring A Junior’s React Code](https://profy.dev/article/react-junior-code-review-and-refactoring-1)
+- [Timeline of a React Component With Hooks](https://julesblom.com/writing/react-hook-component-timeline)
 
 &nbsp;
 

@@ -6,3 +6,9 @@
 - [Chips and Cheese: Hot Chips 34 – Tesla’s Dojo Microarchitecture](https://chipsandcheese.com/2022/09/01/hot-chips-34-teslas-dojo-microarchitecture/)
 
 &nbsp;
+
+# Microservice
+
+- [Brazil's Blog - Microservice Security Design Patterns for Kubernetes (Part 1)](https://blog.kellybrazil.com/2019/12/05/microservice-security-design-patterns-for-kubernetes-part-1/)
+
+&nbsp;

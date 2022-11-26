@@ -4,7 +4,8 @@
   <summary>Table of Contents</summary>
   <ul>
     <li><a href="#tutorials">Tutorials</a></li>
-    <li><a href="#readings">Readings</a></li>
+    <li><a href="#articles">Articles</a></li>
+    <li><a href="#best-practices">Best Practices</a></li>
     <li><a href="#resources">Resources</a></li>
   </ul>
 </details>
@@ -16,15 +17,24 @@
 ## Tutorials
 
 - [gophercises](https://gophercises.com/)
+- [gophercises](https://gophercises.com/)
 - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 
 &nbsp;
 
-## Readings
+## Articles
 
+- [Google Style Guides - Go Style](https://google.github.io/styleguide/go/)
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
 - [Alex Edwards - Organising Database Access in Go](https://www.alexedwards.net/blog/organising-database-access)
 - [Dev Genius - Implementing Go stream API](https://blog.devgenius.io/implementing-go-stream-api-a74a6156ac35)
+
+&nbsp;
+
+## Best Practices
+
+- [ Francesc Campoy Flores (Gopher at Google) - Twelve Go Best Practices](https://go.dev/talks/2013/bestpractices.slide#1)
+- [Go struct/interface best practices](https://www.sobyte.net/post/2022-05/go-struct-interface/)
 
 &nbsp;
 

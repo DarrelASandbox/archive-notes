@@ -71,9 +71,6 @@ brew leaves | xargs brew deps --formula --for-each | sed "s/^.*:/$(tput setaf 4)
 #### Anaconda
 
 ```sh
-# To keep everything consistent, use "conda update anaconda", as Anaconda is the consistent set of packages for each Anaconda release.
-conda update anaconda
-
 # Skip dependency checking altogether, use the '--no-deps' option
 conda install --no-deps #package
 
@@ -92,6 +89,9 @@ source activate base
 
 # Delete an environment and everything in it
 conda env remove --name temp_env
+
+# Update all packages
+conda update --all
 
 # List the history of each change to the current environment
 conda list --revisions

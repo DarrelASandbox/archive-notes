@@ -48,6 +48,8 @@
 |  13  | [A Life Engineered - Most Tech Interview Prep is GARBAGE. (From a Principal Engineer at Amazon)](https://www.youtube.com/watch?v=0Z9RW_hhUT4) |
 |  13  |               [Byte by Byte - How to use Leetcode EFFECTIVELY… and STOP grinding](https://www.youtube.com/watch?v=GbyXxUDVeAo)                |
 |  19  |              [Eric Programming - 2022 - Leetcode Study Roadmap [Beginner's Guide]](https://www.youtube.com/watch?v=wrNEKxlDWlw)               |
+|  8   |                     [I solved 541 Leetcode problems. But you need only 150.](https://www.youtube.com/watch?v=xF554Tlzo-c)                     |
+|  8   |                         [How I mastered Data Structures and Algorithms](https://www.youtube.com/watch?v=s2mYsPWzLjg)                          |
 
 &nbsp;
 

@@ -68,9 +68,11 @@ brew deps --tree --installed go
 brew leaves | xargs brew deps --formula --for-each | sed "s/^.*:/$(tput setaf 4)&$(tput sgr0)/"
 ```
 
-#### Anaconda
+#### Conda
 
 ```sh
+# https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
 # Skip dependency checking altogether, use the '--no-deps' option
 conda install --no-deps #package
 
@@ -79,13 +81,13 @@ conda create --name basic
 conda activate basic
 
 # Make exact copy of an environment
-conda create --clone basic --name temp
+conda create --clone base --name temp
 
 # Check envs
 conda env list
 
 # Activate the new environment to use it
-source activate base
+conda activate base
 
 # Delete an environment and everything in it
 conda env remove --name temp_env

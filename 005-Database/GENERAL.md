@@ -6,6 +6,7 @@
 - [redgate - How to choose between SQL and NoSQL databases](https://www.red-gate.com/simple-talk/databases/nosql/how-to-choose-between-sql-and-nosql-databases/)
 - [redis - Legacy Database Migration: What To Know Before You Start](https://redis.com/blog/legacy-database-migration/)
 - [jzhao.xyz - Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
+- [DZone - Database Architectures and Use Cases - Explained](https://dzone.com/articles/database-architectures-amp-use-cases-explained)
 
 &nbsp;
 

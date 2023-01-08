@@ -20,6 +20,7 @@
 
 ## Resources
 
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 - [Blessed](https://blessed.rs/crates)
 
 &nbsp;

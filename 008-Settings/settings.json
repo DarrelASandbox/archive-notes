@@ -35,6 +35,7 @@
     "fluentd",
     "Forex",
     "genproto",
+    "getrefcount",
     "Godoc",
     "gohtml",
     "goimports",
@@ -69,6 +70,7 @@
     "locktype",
     "mapstructure",
     "marmelab",
+    "memoryview",
     "Menlo",
     "metaprogramming",
     "Microarchitecture",
@@ -91,6 +93,7 @@
     "openapiv",
     "OWASP",
     "PASETO",
+    "Pinterest",
     "Powerline",
     "Preconfigured",
     "Println",
@@ -157,6 +160,8 @@
     "zerolog"
   ],
 
+  "window.zoomLevel": 1,
+
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.wordWrap": "on",
   "editor.formatOnSave": true,
@@ -181,7 +186,6 @@
   "workbench.welcomePage.walkthroughs.openOnInstall": false,
 
   "search.maxResults": 280000,
-  "window.zoomLevel": 1,
   "security.workspace.trust.untrustedFiles": "open",
 
   "emmet.includeLanguages": { "javascript": "javascriptreact" },

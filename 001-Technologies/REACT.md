@@ -25,6 +25,7 @@
 - [Better Programming - How We Reduced Bugs in Our React Codebase](https://betterprogramming.pub/how-we-reduced-bugs-in-our-react-code-base-9a7a979b4442)
 - [Frontend Mastery - Advanced React component composition](https://frontendmastery.com/posts/advanced-react-component-composition-guide/)
 - [Mark's Dev Blog - Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+- [Jules Blom - React ref Callback Use-Cases](https://julesblom.com/writing/ref-callback-use-cases)
 - [marmelab - React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
 - [Profy - Refactoring A Junior’s React Code](https://profy.dev/article/react-junior-code-review-and-refactoring-1)
 - [Timeline of a React Component With Hooks](https://julesblom.com/writing/react-hook-component-timeline)

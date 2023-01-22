@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# Resources
+# General
 
 ## Newsletter
 
@@ -17,16 +17,34 @@
 
 &nbsp;
 
+## Blogs
+
+- [Airbnb Engineering & Data Science](https://airbnb.io/)
+- [egghead.io](https://egghead.io/blog)
+- [DebugBear](https://www.debugbear.com/blog)
+- [Inside Figma](https://www.figma.com/blog/inside-figma/)
+- [Fly.io Blog](https://fly.io/blog/)
+- [MetalBear's Blog](https://metalbear.co/blog/)
+- [Mozilla Mixed Reality Blog](https://blog.mozvr.com/)
+- [StackBlitz Blog](https://blog.stackblitz.com/)
+- [The WHATWG Blog](https://blog.whatwg.org/)
+
+&nbsp;
+
+### Cloud Architecture
+
+- [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
+- [Google Cloud Official Blog](https://blog.google/products/google-cloud/)
+- [Azure Architecture Blog](https://techcommunity.microsoft.com/t5/azure-architecture-blog/bg-p/AzureArchitectureBlog)
+
+&nbsp;
+
 ## Readings
 
 - [Code Project](https://www.codeproject.com/)
-- [egghead.io](https://egghead.io/blog)
-- [DebugBear](https://www.debugbear.com/blog)
 - [Go Make Things](https://gomakethings.com/articles/)
 - [impressivewebs](https://www.impressivewebs.com/)
 - [interviewing.io](https://blog.interviewing.io/)
-- [Mozilla Mixed Reality Blog](https://blog.mozvr.com/)
-- [The WHATWG Blog](https://blog.whatwg.org/)
 
 &nbsp;
 

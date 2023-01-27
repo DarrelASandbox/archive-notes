@@ -7,6 +7,7 @@
 - [redis - Legacy Database Migration: What To Know Before You Start](https://redis.com/blog/legacy-database-migration/)
 - [jzhao.xyz - Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
 - [DZone - Database Architectures and Use Cases - Explained](https://dzone.com/articles/database-architectures-amp-use-cases-explained)
+- [Acronis - What is the difference between incremental, differential, and full backup?](https://www.acronis.com/en-sg/blog/posts/incremental-differential-backups/)
 
 &nbsp;
 

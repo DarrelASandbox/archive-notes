@@ -30,6 +30,8 @@
 - [Profy - Refactoring A Junior’s React Code](https://profy.dev/article/react-junior-code-review-and-refactoring-1)
 - [Timeline of a React Component With Hooks](https://julesblom.com/writing/react-hook-component-timeline)
 - [echo/bind - React vs React Native: How Different Are They, Really?](https://echobind.com/post/react-vs-react-native-how-different-are-they)
+- [Developer way - How to debounce and throttle in React without losing your mind](https://www.developerway.com/posts/debouncing-in-react)
+- [builder.io - A Cure for useState Hell](https://www.builder.io/blog/use-reducer)
 
 &nbsp;
 

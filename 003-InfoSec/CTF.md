@@ -5,3 +5,9 @@
 - [dr3dd - AES-CBC bit flipping Attack](https://dr3dd.gitlab.io/cryptography/2019/01/10/simple-AES-CBC-bit-flipping-attack/)
 
 &nbsp;
+
+## Tools
+
+- [AADInternals - The ultimate Azure AD / Microsoft 365 hacking and admin toolkit](https://aadinternals.com/aadinternals/)
+
+&nbsp;

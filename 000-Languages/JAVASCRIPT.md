@@ -22,6 +22,10 @@
 - [Dmitri Pavlutin - 7 Interview Questions on JavaScript Closures. Can You Answer Them?](https://dmitripavlutin.com/javascript-closures-interview-questions/)
 - [WebKit - Understanding Garbage Collection in JavaScriptCore From Scratch](https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/)
 - [James Sinclair What if the team assumes my functional javascript is slow?](https://jrsinclair.com/articles/2022/what-if-the-team-assumes-my-functional-javascript-is-slow/)
+- [builder.io - Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
+- [2ality – JavaScript and more](https://2ality.com/2022/10/javascript-decorators)
+- [csswizardry - Why Not document.write()?](https://csswizardry.com/2023/01/why-not-document-write/)
+- [Jake Archibald - The gotcha of unhandled promise rejections](https://jakearchibald.com/2023/unhandled-rejections/)
 
 &nbsp;
 

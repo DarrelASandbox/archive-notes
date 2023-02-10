@@ -5,3 +5,4 @@
 - [simplethread - 20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 - [lockedinspace - General guidance when working as a cloud engineer](https://www.lockedinspace.com/posts/001.html)
 - [Side Project Guide](https://sideproject.guide/en)
+- [HTTP Archive - Web Almanac annual - state of the web report](https://almanac.httparchive.org/en/2022/)

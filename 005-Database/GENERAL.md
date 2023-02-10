@@ -8,6 +8,7 @@
 - [jzhao.xyz - Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
 - [DZone - Database Architectures and Use Cases - Explained](https://dzone.com/articles/database-architectures-amp-use-cases-explained)
 - [Acronis - What is the difference between incremental, differential, and full backup?](https://www.acronis.com/en-sg/blog/posts/incremental-differential-backups/)
+- [ByteByteGo Newsletter - EP 43: 8 Data Structures That Power Your Databases](https://blog.bytebytego.com/p/ep-43-8-data-structures-that-power)
 
 &nbsp;
 

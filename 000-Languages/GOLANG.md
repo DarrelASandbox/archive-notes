@@ -28,6 +28,7 @@
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
 - [Alex Edwards - Organising Database Access in Go](https://www.alexedwards.net/blog/organising-database-access)
 - [Dev Genius - Implementing Go stream API](https://blog.devgenius.io/implementing-go-stream-api-a74a6156ac35)
+- [BairesDev - Why Golang Is So Fast: A Performance Analysis](https://www.bairesdev.com/blog/why-golang-is-so-fast-performance-analysis/)
 
 &nbsp;
 

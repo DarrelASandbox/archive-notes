@@ -7,3 +7,9 @@
 - [SEO for Google News](https://www.seoforgooglenews.com/)
 
 &nbsp;
+
+## React
+
+- [Code Frontend - Technical SEO Basics for React Developers](https://codefrontend.com/introduction-to-seo-for-react-developers/)
+
+&nbsp;

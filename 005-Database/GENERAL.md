@@ -9,6 +9,7 @@
 - [DZone - Database Architectures and Use Cases - Explained](https://dzone.com/articles/database-architectures-amp-use-cases-explained)
 - [Acronis - What is the difference between incremental, differential, and full backup?](https://www.acronis.com/en-sg/blog/posts/incremental-differential-backups/)
 - [ByteByteGo Newsletter - EP 43: 8 Data Structures That Power Your Databases](https://blog.bytebytego.com/p/ep-43-8-data-structures-that-power)
+- [Ben Hoyt - From Go on EC2 to Fly.io: +fun, −$9/mo](https://benhoyt.com/writings/flyio/)
 
 &nbsp;
 

@@ -32,12 +32,15 @@
 - [echo/bind - React vs React Native: How Different Are They, Really?](https://echobind.com/post/react-vs-react-native-how-different-are-they)
 - [Developer way - How to debounce and throttle in React without losing your mind](https://www.developerway.com/posts/debouncing-in-react)
 - [builder.io - A Cure for useState Hell](https://www.builder.io/blog/use-reducer)
+- [builder.io - Why useEffect May Not Be the Best Abstraction](https://www.builder.io/blog/useeffect-not-the-best-abstraction)
+- [robinwieruch - React Libraries for 2023](https://www.robinwieruch.de/react-libraries/)
+- [Joe Previte - Build a TypeScript Project From Scratch](https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch)
+- [emnudge - React Is Holding Me Hostage](https://emnudge.dev/blog/react-hostage)
 
 &nbsp;
 
 ## Resources
 
-- [Create React App](https://create-react-app.dev/)
 - [useHooks(🐠)](https://usehooks.com/)
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 

@@ -28,6 +28,7 @@
 - [Jules Blom - React ref Callback Use-Cases](https://julesblom.com/writing/ref-callback-use-cases)
 - [marmelab - React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
 - [Profy - Refactoring A Junior’s React Code](https://profy.dev/article/react-junior-code-review-and-refactoring-1)
+- [JoshWComeau - Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
 - [Timeline of a React Component With Hooks](https://julesblom.com/writing/react-hook-component-timeline)
 - [echo/bind - React vs React Native: How Different Are They, Really?](https://echobind.com/post/react-vs-react-native-how-different-are-they)
 - [Developer way - How to debounce and throttle in React without losing your mind](https://www.developerway.com/posts/debouncing-in-react)

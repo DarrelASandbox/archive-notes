@@ -14,7 +14,9 @@
 
 ## Articles
 
+- [Vercel - Why Turborepo is migrating from Go to Rust](https://vercel.com/blog/turborepo-migration-go-rust)
 - [Tokio - Streams](https://tokio.rs/tokio/tutorial/streams)
+- [fasterthanlime - Pin and suffering](https://fasterthanli.me/articles/pin-and-suffering)
 
 &nbsp;
 

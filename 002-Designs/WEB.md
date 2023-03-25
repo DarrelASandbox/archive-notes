@@ -62,6 +62,7 @@
 ## Design
 
 - [Pagecloud - Best Google Fonts Pairings](https://www.pagecloud.com/blog/best-google-fonts-pairings)
+- [CSS Fonts Stack](https://www.cssfontstack.com/)
 
 &nbsp;
 

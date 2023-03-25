@@ -5,6 +5,14 @@
 - [algolia - Why ChatGPT won’t replace search engines any time soon](https://www.algolia.com/blog/ai/why-chatgpt-wont-replace-search-engines-any-time-soon/)
 - [Stephen Wolfram - What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work)
 
+&nbsp;
+
 ## Neural Networks
 
 - [Andrej Karpathy - Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+
+&nbsp;
+
+## Prompt
+
+- [Lil'Log - Prompt Engineering ](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)

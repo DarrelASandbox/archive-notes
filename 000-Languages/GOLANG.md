@@ -30,6 +30,10 @@
 - [Dev Genius - Implementing Go stream API](https://blog.devgenius.io/implementing-go-stream-api-a74a6156ac35)
 - [BairesDev - Why Golang Is So Fast: A Performance Analysis](https://www.bairesdev.com/blog/why-golang-is-so-fast-performance-analysis/)
 - [Sergey Kamardin - A Million WebSockets and Go](https://medium.com/free-code-camp/million-websockets-and-go-cc58418460bb)
+- [A Comprehensive Guide to Structured Logging in Go](https://betterstack.com/community/guides/logging/logging-in-go/)
+- [dolthub. - Real World Golang Concurrency Examples](https://www.dolthub.com/blog/2023-03-13-golang-concurrency-examples/)
+- [granulate - Deep Dive into Golang Performance](https://granulate.io/blog/deep-dive-into-golang-performance/)
+- [appliedgo - The one-and-only, must-have, eternal Go project layout](https://appliedgo.com/blog/go-project-layout)
 
 &nbsp;
 

@@ -34,6 +34,7 @@
 - [dolthub. - Real World Golang Concurrency Examples](https://www.dolthub.com/blog/2023-03-13-golang-concurrency-examples/)
 - [granulate - Deep Dive into Golang Performance](https://granulate.io/blog/deep-dive-into-golang-performance/)
 - [appliedgo - The one-and-only, must-have, eternal Go project layout](https://appliedgo.com/blog/go-project-layout)
+- [Bitfield Consulting - The adapter pattern in Go](https://bitfieldconsulting.com/golang/adapter)
 
 &nbsp;
 

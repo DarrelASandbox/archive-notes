@@ -37,6 +37,7 @@
 - [robinwieruch - React Libraries for 2023](https://www.robinwieruch.de/react-libraries/)
 - [Joe Previte - Build a TypeScript Project From Scratch](https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch)
 - [emnudge - React Is Holding Me Hostage](https://emnudge.dev/blog/react-hostage)
+- [Fedor Selenskiy - React useEffect Data Fetching Pattern I Wish I Knew Sooner](https://levelup.gitconnected.com/react-pattern-i-wish-i-knew-sooner-7dbccb3a8b62)
 
 &nbsp;
 

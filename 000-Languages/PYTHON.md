@@ -11,6 +11,10 @@
 
 # Python
 
+## Articles
+
+[IEEE Spectrum - Codon lets users run Python code as efficiently as C or C++](https://spectrum.ieee.org/python-compiler)
+
 ## Tutorials
 
 - [Real Python - Python Best Practices for More Pythonic Code](https://realpython.com/tutorials/best-practices/)

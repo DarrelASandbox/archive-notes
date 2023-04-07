@@ -6,6 +6,7 @@
 - [Chips and Cheese: Hot Chips 34 – Tesla’s Dojo Microarchitecture](https://chipsandcheese.com/2022/09/01/hot-chips-34-teslas-dojo-microarchitecture/)
 - [Surfing Complexity - Cache invalidation really is one of the hardest problems in computer science](https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/)
 - [interviewing.io - A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
+- [Kevin Sookocheff - What complex systems can teach us about building software](https://sookocheff.com/post/systems/what-complex-systems-can-teach-us-about-building-software/)
 
 &nbsp;
 

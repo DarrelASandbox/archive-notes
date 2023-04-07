@@ -1,5 +1,7 @@
 # Assets
 
+- [simplified](https://simplified.com/)
+
 ## CSS
 
 - [css3buttongenerator.com](https://css3buttongenerator.com/)

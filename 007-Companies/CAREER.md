@@ -50,6 +50,7 @@
 - [eugeneyan - What I Wish I Knew About Onboarding Effectively](https://eugeneyan.com/writing/onboarding/)
 - [Gunnar Morling - The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 - [Michael Lynch - How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
+- [The ReadME Project - Junior to senior: An action plan for engineering career success](https://github.com/readme/guides/engineering-career-success)
 
 &nbsp;
 

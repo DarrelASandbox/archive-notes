@@ -7,3 +7,4 @@
 - [Side Project Guide](https://sideproject.guide/en)
 - [HTTP Archive - Web Almanac annual - state of the web report](https://almanac.httparchive.org/en/2022/)
 - [Joel on Software - The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+- [MUX - The building blocks of great docs](https://www.mux.com/blog/the-building-blocks-of-great-docs)

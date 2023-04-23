@@ -24,6 +24,7 @@
 - [freeCodeCamp - Web Animation Performance Fundamentals – How to Make Your Pages Look Smooth](https://www.freecodecamp.org/news/web-animation-performance-fundamentals)
 - [DEV - The Cost of Consistency in UI Frameworks](https://dev.to/this-is-learning/the-cost-of-consistency-in-ui-frameworks-4agi)
 - [Kirill Rogovoy - No architecture is better than bad architecture](https://rogovoy.me/blog/no-architecture)
+- [Architectural Characteristics](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8cd0334-8287-4949-bf4a-187ae9b79a3a_4420x2692.png)
 
 &nbsp;
 
@@ -63,6 +64,7 @@
 
 - [Pagecloud - Best Google Fonts Pairings](https://www.pagecloud.com/blog/best-google-fonts-pairings)
 - [CSS Fonts Stack](https://www.cssfontstack.com/)
+- [adhamdannaway - 16 little UI design rules that make a big impact](https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules)
 
 &nbsp;
 

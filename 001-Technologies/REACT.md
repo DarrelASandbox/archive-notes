@@ -38,6 +38,9 @@
 - [Joe Previte - Build a TypeScript Project From Scratch](https://www.typescriptcourse.com/tutorials/build-a-typescript-project-from-scratch)
 - [emnudge - React Is Holding Me Hostage](https://emnudge.dev/blog/react-hostage)
 - [Fedor Selenskiy - React useEffect Data Fetching Pattern I Wish I Knew Sooner](https://levelup.gitconnected.com/react-pattern-i-wish-i-knew-sooner-7dbccb3a8b62)
+- [frontendmastery - Rethinking React best practices](https://frontendmastery.com/posts/rethinking-react-best-practices/)
+- [sun0day - How we made Vite 4.3 faaaaster](https://sun0day.github.io/blog/vite/why-vite4_3-is-faster.html)
+- [Baqir Nekfar - The Most Common React Design Patterns](https://www.linkedin.com/pulse/most-common-react-design-patterns-baqir-nekfar/)
 
 &nbsp;
 

@@ -1,6 +1,7 @@
 ## Deep Learning
 
 - [Pragmatic Deep Learning Model for Forex Forecasting](https://pub.towardsai.net/pragmatic-deep-learning-model-for-forex-forecasting-569aae6d4a1a)
+- [Nvidia Deep Learning](https://developer.nvidia.com/deep-learning)
 
 ## Neural Networks
 

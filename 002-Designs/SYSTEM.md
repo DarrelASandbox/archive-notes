@@ -7,6 +7,7 @@
 - [Surfing Complexity - Cache invalidation really is one of the hardest problems in computer science](https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/)
 - [interviewing.io - A Senior Engineer's Guide to the System Design Interview](https://interviewing.io/guides/system-design-interview)
 - [Kevin Sookocheff - What complex systems can teach us about building software](https://sookocheff.com/post/systems/what-complex-systems-can-teach-us-about-building-software/)
+- [Discord Blog - How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 
 &nbsp;
 

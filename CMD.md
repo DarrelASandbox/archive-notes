@@ -35,6 +35,28 @@ git merge upstream/main
 git remote -v
 # Remove previously incorrect remote
 git remote rm upstream
+
+# Combining repositories while keep commit histories (Using branch)
+git clone https://github.com/<your_username>/<old_repository>.git
+git clone https://github.com/<your_username>/<new_repository>.git
+cd <new_repository>
+git checkout -b merging_branch
+git remote add old_repo ../<old_repository> # Local directory
+git fetch old_repo
+git merge old_repo/main --allow-unrelated-histories
+git push origin merging_branch
+# Handle pull request on GitHub after pushing
+# Delete old branch on GitHub
+git remote remove old_repo
+
+# Combining repositories while keep commit histories (Directly to main)
+git clone https://github.com/<your_username>/<new_repository>.git
+cd <new_repository>
+git remote add old_repo https://github.com/<your_username>/<old_repository>.git
+git fetch old_repo
+git merge old_repo/main --allow-unrelated-histories
+git push
+git remote remove old_repo
 ```
 
 #### NPM
@@ -97,6 +119,9 @@ conda update --all
 
 # List the history of each change to the current environment
 conda list --revisions
+
+# To "reset" env
+conda install --rev 1
 ```
 
 #### UNIX

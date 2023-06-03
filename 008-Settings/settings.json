@@ -14,6 +14,7 @@
     "buildx",
     "classlib",
     "clusterissuer",
+    "codebases",
     "codepaths",
     "concat",
     "conda",
@@ -21,6 +22,7 @@
     "Contentful",
     "coverprofile",
     "ctxmd",
+    "darrela",
     "DAST",
     "dataframe",
     "dbdocs",
@@ -37,6 +39,7 @@
     "Forex",
     "genproto",
     "getrefcount",
+    "Gitea",
     "Godoc",
     "gohtml",
     "goimports",
@@ -45,11 +48,14 @@
     "googleapis",
     "GOPATH",
     "gophercises",
+    "goproxy",
+    "gorequest",
     "GORM",
     "goroutines",
     "gradlew",
     "grpcgateway",
     "Hackernoon",
+    "handwashing",
     "Highscore",
     "HITECH",
     "HMAC",
@@ -65,6 +71,7 @@
     "javapoint",
     "JSESSIONID",
     "julienschmidt",
+    "Kanban",
     "Kaspersky",
     "keyof",
     "kubeconfig",
@@ -73,12 +80,14 @@
     "locktype",
     "mapstructure",
     "marmelab",
+    "Matplotlib",
     "memoryview",
     "Menlo",
     "metaprogramming",
     "Microarchitecture",
     "Microservices",
     "middlewares",
+    "Millis",
     "miniconda",
     "Mockaroo",
     "mockdb",
@@ -90,6 +99,7 @@
     "mutatable",
     "Negabinary",
     "Neovim",
+    "nextjs",
     "nslookup",
     "nums",
     "OIDC",
@@ -97,6 +107,7 @@
     "OWASP",
     "PASETO",
     "Pinterest",
+    "Plotly",
     "Powerline",
     "Preconfigured",
     "Println",
@@ -131,6 +142,8 @@
     "Servlet",
     "SIEM",
     "Skyscanner",
+    "sounddevice",
+    "soundfile",
     "SQLC",
     "SQLX",
     "sslmode",
@@ -142,6 +155,7 @@
     "structs",
     "Subarray",
     "substr",
+    "tailwindcss",
     "templating",
     "temurin",
     "testflag",
@@ -149,6 +163,7 @@
     "transactionid",
     "tsbuildinfo",
     "Udacity",
+    "Udemy",
     "uffff",
     "unbuffered",
     "Unmarshal",
@@ -156,16 +171,20 @@
     "unshift",
     "Unvalidated",
     "upcasting",
+    "upvotes",
     "usename",
     "userarn",
+    "Vegeta",
     "Visio",
     "Walkthrough",
     "XACML",
     "XGET",
-    "zerolog"
+    "zerolog",
+    "zipcode"
   ],
-
-  "window.zoomLevel": 1,
+  "debug.confirmOnExit": "always",
+  "window.confirmBeforeClose": "always",
+  "window.zoomLevel": -1,
 
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.wordWrap": "on",
@@ -173,6 +192,9 @@
   "editor.linkedEditing": true,
   "editor.minimap.enabled": false,
   "editor.tabSize": 2,
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
 
   "explorer.compactFolders": false,
   "explorer.confirmDragAndDrop": false,
@@ -193,6 +215,10 @@
   "search.maxResults": 280000,
   "security.workspace.trust.untrustedFiles": "open",
 
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html"
+  },
+
   "emmet.includeLanguages": { "javascript": "javascriptreact" },
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
@@ -201,17 +227,19 @@
   "prettier.singleQuote": true,
   "prettier.printWidth": 90,
 
+  "projectManager.git.baseFolders": ["~/Projects"],
+  "hediet.vscode-drawio.theme": "min",
+  "redhat.telemetry.enabled": true,
   "liveServer.settings.donotShowInfoMsg": true,
   "reactSnippets.settings.importReactOnTop": false,
 
-  "python.condaPath": "/opt/homebrew/Caskroom/miniconda/base/envs/basic",
-  "python.formatting.provider": "black",
-  "python.formatting.blackPath": "/opt/homebrew/Caskroom/miniconda/base/envs/tutorial/bin/black",
-  "python.linting.pylintEnabled": false,
+  "python.condaPath": "/opt/homebrew/Caskroom/miniconda/base/envs/base2",
+  "python.formatting.provider": "none",
+  "python.linting.pylintEnabled": true,
   "python.linting.enabled": true,
 
   "[python]": {
-    "editor.defaultFormatter": null,
+    "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.tabSize": 4,
     "editor.formatOnType": true
   },
@@ -230,7 +258,8 @@
   },
 
   "files.associations": {
-    "*.gohtml": "html"
+    "*.gohtml": "html",
+    "*.css": "tailwindcss"
   },
 
   "[java]": {

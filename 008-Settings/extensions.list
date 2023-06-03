@@ -1,3 +1,6 @@
+alefragnani.project-manager
+bradlc.vscode-tailwindcss
+christian-kohler.path-intellisense
 dbaeumer.vscode-eslint
 dsznajder.es7-react-js-snippets
 esbenp.prettier-vscode
@@ -5,13 +8,15 @@ golang.go
 hediet.vscode-drawio
 monokai.theme-monokai-pro-vscode
 ms-azuretools.vscode-docker
-ms-dotnettools.csharp
+ms-python.black-formatter
 ms-python.isort
+ms-python.pylint
 ms-python.python
 ms-python.vscode-pylance
 ms-vscode.makefile-tools
 naumovs.color-highlight
 PKief.material-icon-theme
+rbuckton.deoptexplorer-vscode
 redhat.java
 ritwickdey.LiveServer
 streetsidesoftware.code-spell-checker

@@ -1,15 +1,6 @@
 // Place your key bindings in this file to override the defaultsauto[]
 [
   {
-    "key": "shift+enter",
-    "command": "-python.execSelectionInTerminal",
-    "when": "editorTextFocus && !findInputFocussed && !jupyter.ownsSelection && !notebookEditorFocused && !replaceInputFocussed && editorLangId == 'python'"
-  },
-  {
-    "key": "ctrl+cmd+enter",
-    "command": "python.execInTerminal"
-  },
-  {
     "key": "ctrl+cmd+k",
     "command": "workbench.action.terminal.focus"
   },
@@ -23,7 +14,8 @@
     "when": "terminalFocus && terminalHasBeenCreated || terminalFocus && terminalProcessSupported"
   },
   {
-    "key": "cmd+k",
-    "command": "workbench.action.terminal.clear"
+    "key": "ctrl+cmd+s",
+    "command": "markdown.extension.editing.toggleStrikethrough",
+    "when": "editorTextFocus && !editorReadonly && editorLangId == 'markdown'"
   }
 ]

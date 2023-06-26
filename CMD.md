@@ -1,4 +1,11 @@
-#### GitHub & Git
+- [Git](#git)
+- [VS Code](#vs-code)
+- [Homebrew](#homebrew)
+- [Conda](#conda)
+- [UNIX](#unix)
+- [Neovim](#neovim)
+
+## Git
 
 ```sh
 # "Undo" pushed commit to GitHub.
@@ -59,14 +66,13 @@ git push
 git remote remove old_repo
 ```
 
-#### NPM
+&nbsp;
 
-```sh
-# List all the Node.js modules linked with npm
-npm ls --link --global
-```
+---
 
-#### VS Code
+&nbsp;
+
+## VS Code
 
 ```sh
 # https://stackoverflow.com/questions/35773299/how-can-you-export-the-visual-studio-code-extension-list
@@ -76,7 +82,13 @@ code --list-extensions > extensions.list
 cat extensions.list |% { code --install-extension $_}
 ```
 
-#### Homebrew
+&nbsp;
+
+---
+
+&nbsp;
+
+## Homebrew
 
 ```sh
 # List information about all managed services for the current user (or root).
@@ -90,7 +102,13 @@ brew deps --tree --installed go
 brew leaves | xargs brew deps --formula --for-each | sed "s/^.*:/$(tput setaf 4)&$(tput sgr0)/"
 ```
 
-#### Conda
+&nbsp;
+
+---
+
+&nbsp;
+
+## Conda
 
 ```sh
 # https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
@@ -124,22 +142,67 @@ conda list --revisions
 conda install --rev 1
 ```
 
-#### UNIX
+&nbsp;
+
+---
+
+&nbsp;
+
+## UNIX
 
 ```sh
 # List of open network ports.
 netstat -anvp tcp | awk 'NR<3 || /LISTEN/'
 sudo lsof -PiTCP -sTCP:LISTEN
+
+# nmap identify the services running on ports
+dnf install nmap
+# `-sT` lists open ports
+# `-O` option is for operating system detection
+nmap -sT -O localhost
+
+# Port forwarding setup
+# Configure port forwarding for your router
+# Instruction varies from router to router
+# On remote server (Rocky Linux)
+systemctl status firewalld
+firewall-cmd --add-port=YOUR_PORT/tcp --permanent
+firewall-cmd --reload
+firewall-cmd --list-all
+while true; do nc -l 443 -c 'echo -e "HTTP/1.1 200 OK\n\nHello, world!"'; done
+# On client server (MacOS)
+nc -zv hostname port
+
+# Generate csr
+openssl genrsa -out private.key 4096
+mv private.key
+mv private.key .ssh/private.key
+cd .ssh
+openssl req -new -key private.key -out csr.pem -subj "/CN=your_domain.com"
+
+# List Open Files
+# `-i`: Select the listing of files any of whose Internet address matches the address specified in i.
+# `-P`: inhibits the conversion of port numbers to port names for network files.
+# `-n`: inhibits the conversion of network numbers to host names for network files.
+lsof -i -P -n
+lsof -i :8080 -P -n
 ```
 
-```sh
-# Kill port
-kill -9 <PID>
-```
+&nbsp;
 
-#### Neovim
+---
+
+&nbsp;
+
+## Neovim
 
 ```sh
 # runtimepath
 :help rtp
 ```
+
+&nbsp;
+
+---
+
+&nbsp;
